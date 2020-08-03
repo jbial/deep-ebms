@@ -7,4 +7,5 @@
 ![valset.jpg](https://github.com/jbial/deep-ebms/blob/master/images/data/valset.jpg)
 
 ## Energy landscape evolution
-![](https://github.com/jbial/deep-ebms/blob/master/images/gifs/sgld_3x50_30.gif =100x100)
+![](https://github.com/jbial/deep-ebms/blob/master/images/gifs/sgld_3x50_30.gif)
+<img src="https://github.com/jbial/deep-ebms/blob/master/images/gifs/sgld_3x50_30.gif" width="100">
