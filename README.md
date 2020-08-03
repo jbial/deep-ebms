@@ -5,3 +5,6 @@
 
 ## Toy GMM data
 ![valset.jpg](https://github.com/jbial/deep-ebms/blob/master/images/data/valset.jpg)
+
+## Energy landscape evolution
+![ebm_landscape](https://github.com/jbial/deep-ebms/blob/master/images/gifs/sgld_3x50_30.gif)
